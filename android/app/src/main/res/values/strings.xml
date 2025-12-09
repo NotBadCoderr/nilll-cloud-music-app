@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Nilll Cloud Music</string>
+    <string name="title_activity_main">Nilll Cloud Music</string>
+    <string name="package_name">com.nilll.test</string>
+    <string name="custom_url_scheme">com.nilll.test</string>
+</resources>
